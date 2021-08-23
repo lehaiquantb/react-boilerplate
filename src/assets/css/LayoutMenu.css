@@ -1,0 +1,33 @@
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.header {
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 16px;
+  justify-content: space-between;
+}
+
+.header-avatar {
+  cursor: pointer;
+}
+
+.header-name {
+  cursor: pointer;
+  margin-right: 16px;
+}
+
+.ant-menu-item {
+  display: flex;
+  align-items: center;
+}
